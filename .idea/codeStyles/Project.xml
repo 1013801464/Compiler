@@ -1,0 +1,8 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="71" />
+    <codeStyleSettings language="JAVA">
+      <option name="CASE_STATEMENT_ON_NEW_LINE" value="false" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
